@@ -1,0 +1,4 @@
+#+BEGIN_QUOTE
+The keyy to understanding complicated things is knowing what not to look at,
+not to compute, not to think. -- Genald Jay Sussman
+#+END_QUOTE
