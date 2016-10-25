@@ -1,3 +1,7 @@
+* Quotes
+Quotes once impressed me.
+
+** No. 001 (10/24/2016)
 #+BEGIN_QUOTE
 The key to understanding complicated things is knowing what not to look at,
 not to compute, not to think.
@@ -5,6 +9,7 @@ not to compute, not to think.
 -- Genald Jay Sussman
 #+END_QUOTE
 
+** No. 002 (10/25/2016)
 #+BEGIN_QUOTE
 Been telling myself, all I need is 20 seconds of insane courage and something amazing will happen.
 
