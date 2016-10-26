@@ -1,12 +1,11 @@
 * Quotes
 Quotes once impressed me.
 
-** No. 001 (10/24/2016)
+** No. 003 (10/26/2016)
 #+BEGIN_QUOTE
-The key to understanding complicated things is knowing what not to look at,
-not to compute, not to think.
+New and shiny is what clients want, boring and dependable is what owners want.
 
--- Genald Jay Sussman
+-- Hacker News comments on /Happiness is a Boring Stack/
 #+END_QUOTE
 
 ** No. 002 (10/25/2016)
@@ -19,5 +18,13 @@ Been telling myself, all I need is 20 seconds of insane courage and something am
 
 20 seconds, never been easier for me.
 
--- Movie We Bought a Zoo
+-- Movie /We Bought a Zoo/
+#+END_QUOTE
+
+** No. 001 (10/24/2016)
+#+BEGIN_QUOTE
+The key to understanding complicated things is knowing what not to look at,
+not to compute, not to think.
+
+-- Genald Jay Sussman
 #+END_QUOTE
