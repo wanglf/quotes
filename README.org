@@ -1,6 +1,17 @@
 * Quotes
 Quotes once impressed me.
 
+** No. 004 (10/29/2016)
+#+BEGIN_QUOTE
+The rights and privileges of first-class citizens
+
+- to be named by variables.
+- to be passed as arguments to procedures.
+- to be returned as values of procedures.
+- to be incorporated into data structures.
+
+-- /Lecture2A_MIT 6.001 Structure and Interpretation of Computer Programs/
+#+END_QUOTE
 ** No. 003 (10/26/2016)
 #+BEGIN_QUOTE
 New and shiny is what clients want, boring and dependable is what owners want.
