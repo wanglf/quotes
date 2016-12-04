@@ -1,6 +1,25 @@
 * Quotes
 Quotes once impressed me.
 
+** No. 006 (12/04/2016)
+#+BEGIN_QUOTE
+Say to them,
+say to the down-keepers,
+the sun-slappers,
+the self-soilers,
+the harmony-hushers,
+"even if you are not ready for day
+it cannot always be night."
+You will be right.
+For that is the hard home-run.
+
+Live not for battles won.
+Live not for the-end-of-the-song.
+Live in the along.
+
+-- Speech To The Young : Speech To The Progress-Toward - Poem by Gwendolyn Brooks
+
+#+END_QUOTE
 ** No. 005 (11/05/2016)
 #+BEGIN_QUOTE
 人所拥有的任何东西，都可以被剥夺，唯独人性最后的自由---也就是在任何境遇中选择一己态度和生活方式的自由---不能被剥夺。
