@@ -2,7 +2,7 @@
 Quotes once impressed me.
 
 ** No. 006 (12/04/2016)
-#+BEGIN_QUOTE
+#+BEGIN_EXAMPLE
 Say to them,
 say to the down-keepers,
 the sun-slappers,
@@ -19,7 +19,7 @@ Live in the along.
 
 -- Speech To The Young : Speech To The Progress-Toward - Poem by Gwendolyn Brooks
 
-#+END_QUOTE
+#+END_EXAMPLE
 ** No. 005 (11/05/2016)
 #+BEGIN_QUOTE
 人所拥有的任何东西，都可以被剥夺，唯独人性最后的自由---也就是在任何境遇中选择一己态度和生活方式的自由---不能被剥夺。
