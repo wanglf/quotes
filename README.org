@@ -1,6 +1,13 @@
 * Quotes
-Quotes once impressed me.
+  Quotes once impressed me.
 
+** No. 008 (05/29/2017)
+#+BEGIN_EXAMPLE
+Using vi is like being in a relationship, you are involved. Using Emacs is like a marriage, you are committed, in large part because there is so much to learn
+
+--  Bryan Berry
+
+#+END_EXAMPLE
 ** No. 007 (03/17/2017)
 #+BEGIN_EXAMPLE
 If you want to build a ship, don't drum up the men to
