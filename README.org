@@ -1,6 +1,14 @@
 * Quotes
   Quotes once impressed me.
 
+** No. 009 (06/13/2017)
+#+BEGIN_EXAMPLE
+A language isn't something you learn so much as something you join.
+
+-- Arika Okrent
+
+#+END_EXAMPLE
+
 ** No. 008 (05/29/2017)
 #+BEGIN_EXAMPLE
 Using vi is like being in a relationship, you are involved. Using Emacs is like a marriage, you are committed, in large part because there is so much to learn
