@@ -1,6 +1,14 @@
 * Quotes
   Quotes once impressed me.
 
+** No. 010 (06/20/2017)
+#+BEGIN_EXAMPLE
+很多时候重要的不是知识，而是切身感受到的力量，靠近厉害的人，你就会慢慢变得厉害，没想法也会变得有想法，小想法会变成大想法。
+
+-- 经济学家 周其仁
+
+#+END_EXAMPLE
+
 ** No. 009 (06/13/2017)
 #+BEGIN_EXAMPLE
 A language isn't something you learn so much as something you join.
