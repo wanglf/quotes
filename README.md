@@ -1,40 +1,39 @@
-* Quotes
-  Quotes once impressed me.
+# Quotes
+Quotes once impressed me.
 
-** No. 010 (06/20/2017)
-#+BEGIN_EXAMPLE
+## No. 010 (06/20/2017)
+```
 很多时候重要的不是知识，而是切身感受到的力量，靠近厉害的人，你就会慢慢变得厉害，没想法也会变得有想法，小想法会变成大想法。
 
 -- 经济学家 周其仁
+```
 
-#+END_EXAMPLE
-
-** No. 009 (06/13/2017)
-#+BEGIN_EXAMPLE
+## No. 009 (06/13/2017)
+```
 A language isn't something you learn so much as something you join.
 
 -- Arika Okrent
+```
 
-#+END_EXAMPLE
 
-** No. 008 (05/29/2017)
-#+BEGIN_EXAMPLE
+## No. 008 (05/29/2017)
+```
 Using vi is like being in a relationship, you are involved. Using Emacs is like a marriage, you are committed, in large part because there is so much to learn
 
 --  Bryan Berry
+```
 
-#+END_EXAMPLE
-** No. 007 (03/17/2017)
-#+BEGIN_EXAMPLE
+## No. 007 (03/17/2017)
+```
 If you want to build a ship, don't drum up the men to
 gather wood, divide the work and give orders. Instead,
 teach them to yearn for the vast and endless sea.
 
 -- Antoine de Saint Exupery
+```
 
-#+END_EXAMPLE
-** No. 006 (12/04/2016)
-#+BEGIN_EXAMPLE
+## No. 006 (12/04/2016)
+```
 Say to them,
 say to the down-keepers,
 the sun-slappers,
@@ -50,18 +49,19 @@ Live not for the-end-of-the-song.
 Live in the along.
 
 -- Speech To The Young : Speech To The Progress-Toward - Poem by Gwendolyn Brooks
+```
 
-#+END_EXAMPLE
-** No. 005 (11/05/2016)
-#+BEGIN_QUOTE
+## No. 005 (11/05/2016)
+```
 人所拥有的任何东西，都可以被剥夺，唯独人性最后的自由---也就是在任何境遇中选择一己态度和生活方式的自由---不能被剥夺。
 
 -- /Viktor Emil Frankl, Man's Searching For Meaning/
 
 Everything can be taken from a man but one thing: the last of the human freedom --- to choose one's attitude in any given set of circumstances, to choose one's own way.
-#+END_QUOTE
-** No. 004 (10/29/2016)
-#+BEGIN_QUOTE
+```
+
+## No. 004 (10/29/2016)
+```
 The rights and privileges of first-class citizens
 
 - to be named by variables.
@@ -70,16 +70,17 @@ The rights and privileges of first-class citizens
 - to be incorporated into data structures.
 
 -- /Lecture2A_MIT 6.001 Structure and Interpretation of Computer Programs/
-#+END_QUOTE
-** No. 003 (10/26/2016)
-#+BEGIN_QUOTE
+```
+
+## No. 003 (10/26/2016)
+```
 New and shiny is what clients want, boring and dependable is what owners want.
 
 -- Hacker News comments on /Happiness is a Boring Stack/
-#+END_QUOTE
+```
 
-** No. 002 (10/25/2016)
-#+BEGIN_QUOTE
+## No. 002 (10/25/2016)
+```
 Been telling myself, all I need is 20 seconds of insane courage and something amazing will happen.
 
 - All I need is 20 seconds of insane courage, to put on my running shoes.
@@ -89,12 +90,12 @@ Been telling myself, all I need is 20 seconds of insane courage and something am
 20 seconds, never been easier for me.
 
 -- Movie /We Bought a Zoo/
-#+END_QUOTE
+```
 
-** No. 001 (10/24/2016)
-#+BEGIN_QUOTE
+## No. 001 (10/24/2016)
+```
 The key to understanding complicated things is knowing what not to look at,
 not to compute, not to think.
 
 -- Genald Jay Sussman
-#+END_QUOTE
+```
