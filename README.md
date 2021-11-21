@@ -1,6 +1,40 @@
 # Quotes
 Quotes once impressed me.
 
+## No. 011 (11/21/2021)
+
+```
+The Road Not Taken 
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+-- BY ROBERT FROST
+```
+
+
+
 ## No. 010 (06/20/2017)
 ```
 很多时候重要的不是知识，而是切身感受到的力量，靠近厉害的人，你就会慢慢变得厉害，没想法也会变得有想法，小想法会变成大想法。
