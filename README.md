@@ -1,6 +1,15 @@
 # Quotes
 Quotes once impressed me.
 
+## No. 013 (12/29/2021)
+```
+We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+
+
+-- NOT Aristotle
+```
+
+
 ## No. 012 (11/29/2021)
 
 ```
